@@ -1,0 +1,19 @@
+{
+  "name": "visual-api_week4",
+  "version": "1.0.0",
+  "description": "Excercisse for building an API for LaunchX's backend mission",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khisus19/Visual-thinking-API.git"
+  },
+  "author": "khisus19",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khisus19/Visual-thinking-API/issues"
+  },
+  "homepage": "https://github.com/khisus19/Visual-thinking-API#readme"
+}
