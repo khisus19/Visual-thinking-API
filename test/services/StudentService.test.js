@@ -34,7 +34,7 @@ describe("Pruebas para StudentService", () => {
                 "haveCertification": true
             }];
         const certificationChecklist = StudentService.certificationCheck(students);
-        expect(certificationChecklist[0].haveCertification).toBeTruthy();
+        expect(certificationChecklist[0]).toBe("Todd@visualpartnership.xyz");
     });
 
     test("Método 3: Listar los estudiantes que tengan credits mayor a 500", () =>{
